@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Joy Wibowo</h1>
-<h3 align="center">I'm dedicated to exploring and contributing to the exciting world of blockchain technology. My expertise lies in developing solutions that operate on Layer 1 (the underlying blockchain protocol) and Layer 2 (scaling solutions built on top of Layer 1). I believe in the potential of blockchain to revolutionize various industries and I'm committed to being a part of that change.</h3>
+<h4 align="left">Hi, I'm Joy Wibowo</h4>
+<p align="left">I'm dedicated to exploring and contributing to the exciting world of blockchain technology. My expertise lies in developing solutions that operate on Layer 1 (the underlying blockchain protocol) and Layer 2 (scaling solutions built on top of Layer 1). I believe in the potential of blockchain to revolutionize various industries and I'm committed to being a part of that change.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avenbreaks&label=Profile%20views&color=0e75b6&style=flat-square" alt="avenbreaks" /> </p>
 

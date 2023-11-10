@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avenbreaks&label=Profile%20views&color=0e75b6&style=flat-square" alt="avenbreaks" /> </p>
 
-- 🔭 I’m currently working on [Engram Network](https://github.com/engram-network)
+- 🔭 I’m currently working on [Engram Network](https://github.com/engram-network) & [Lyzo Network](https://github.com/lyzo-one)
 
 - 🌱 I’m currently learning **AML**
 

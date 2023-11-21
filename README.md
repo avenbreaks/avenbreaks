@@ -32,8 +32,9 @@
   </picture>
 
 <!--   About me -->
-* 🎯 Specializing in Blockchain L1 and Cosmos IBC.
+* 🎯 Specializing in Blockchain L1 - L2 and Cosmos [IBC Gang](https://github.com/orgs/cosmos/discussions/categories/build-chains).
 * 📝 Working on Engram Network as CTO [Engram Network](https://github.com/engram-network).
+* 🎄  Building with others at [Blockscout](https://github.com/blockscout/blockscout.git).
 * ❤️  Stargazing to make things fit [ETHIAB](https://github.com/avenbreaks/ethereum-in-thebox).
 
 <!-- Programming languages -->
@@ -48,22 +49,10 @@
 <!-- Cloud Infrastructure -->
 <h2>I've build infrastucture with</h2>
 <a href="https://github.com/avenbreaks#gh-light-mode-only">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,ansible,docker,kubernetes,openstack,openshift,linux,&theme=light&perline=5" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,ansible,docker,kubernetes,openstack,openshift,linux,&theme=light&perline=9" />
 </a>
 <a href="https://github.com/avenbreaks#gh-dark-mode-only">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,ansible,docker,kubernetes,openstack,openshift,linux,&theme=light&perline=5" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,ansible,docker,kubernetes,openstack,openshift,linux,&theme=light&perline=9" />
 </a>
 
-<!-- Profile summary -->
-<h2>Profile summary </h2>
-<div align="center">
-<picture align = "left">
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=avenbreaks&theme=white&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
-    <img src="https://streak-stats.demolab.com/?user=avenbreaks&hide_border=true&theme=dark&background=00000000" width="47%" />
-</picture>
-  <picture align = "right">
-    <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "98%">
-    <img src="images/profile-custom-night-view.svg" width = "98%"/>
-  </picture>
 
-</div>

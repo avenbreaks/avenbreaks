@@ -35,8 +35,10 @@
 * 🎯 Specializing in Blockchain L1 - L2 and Cosmos [IBC Gang](https://github.com/orgs/cosmos/discussions/categories/build-chains).
 * 📝 Working on Engram Network as CTO [Engram Network](https://github.com/engram-network).
 * 📝 Working on Lyzo One as Protocol Research [Lyzo One](https://github.com/lyzo-one).
-* 🎄  Building with others at [Blockscout](https://github.com/blockscout/blockscout.git).
-* ❤️  Stargazing to make things fit [ETHIAB](https://github.com/avenbreaks/ethereum-in-thebox).
+* 🎄 Building with others at [Blockscout](https://github.com/blockscout/blockscout.git).
+* 🎄 Stargazing to make things fit [ETHIAB](https://github.com/avenbreaks/ethereum-in-thebox).
+* 🎄 Hire Me On [LaborX](https://laborx.com/freelancers/users/id264773)
+
 
 <!-- Programming languages -->
 <h2>I've worked with</h2>

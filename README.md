@@ -25,11 +25,6 @@
 <h1> Hello, I am Joy <img src = "https://media3.giphy.com/media/ZDNQdzCUjIK9VNUE2c/giphy.webp" width = "70"/></h1>
 <div align="left">
 
-<!-- Introduction image -->
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://images.squarespace-cdn.com/content/v1/5c4ece0e3917ee277d32eaf3/1570273077298-30G7YE5PFHJW058FFNNJ/summer-ani.gif" align="right" width="30%">
-    <img src="images/astronomy.gif" width="30%" align="right" />
-  </picture>
 
 <!--   About me -->
 * 🎯 Specializing in Blockchain L1 / L2 / L3 / Rollup / zkEVM / Side Chain & Cosmos IBC Gang.

@@ -29,6 +29,7 @@
 <!--   About me -->
 * 🎯 Specializing in Blockchain L1 / L2 / L3 / Rollup / zkEVM / Side Chain & Cosmos IBC Gang.
 * 📝 Working on Engram Network as CTO [Engram Network](https://github.com/engram-network).
+* 📝 Working on Indonesian Gov as Blockchain Engineer [Glide](https://glide.xyzinnovation.tech/).
 * 📝 Working on Lyzo One as Protocol Research [Lyzo One](https://github.com/lyzo-one).
 * 🎄 Building with others at [Blockscout](https://github.com/blockscout/blockscout.git).
 * 🎄 Stargazing to make things fit [ETHIAB](https://github.com/avenbreaks/ethereum-in-thebox).
